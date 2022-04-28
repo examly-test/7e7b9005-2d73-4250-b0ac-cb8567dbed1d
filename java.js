@@ -1,1 +1,1 @@
-console.log('new changes for build chec oosodofosk')
+console.log('new changes for build chec ')
